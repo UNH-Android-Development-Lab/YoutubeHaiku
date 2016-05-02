@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="youtubelinks">
+        <item>https://www.youtube.com/watch?v=qHf2Q6o1J28&amp;feature=youtu.be</item>
+        <item>https://www.youtube.com/watch?v=ZIpkdusnIkE</item>
+        <item>https://www.youtube.com/watch?v=fy1Ir9Zy-pE</item>
+        <item>https://youtu.be/Gu1DiVrV-gw</item>
+        <item>https://www.youtube.com/watch?v=EZyMwfh_DLA</item>
+        <item>https://www.youtube.com/watch?v=QiORdtK4udA&amp;feature=youtu.be</item>
+        <item>https://www.youtube.com/watch?v=jXAZ6B6vOjs</item>
+        <item>https://www.youtube.com/watch?v=LWRP5weA0NQ</item>
+        <item>https://www.youtube.com/watch?v=JQJWqKzr6V4</item>
+        <item>https://youtu.be/ihvrbKlNDGM</item>
+        <item>https://youtu.be/1JHB_-LCoNA</item>
+        <item>https://youtu.be/3C84XkbMxSM</item>
+        <item>https://www.youtube.com/watch?v=SkQkBG0Q7vQ</item>
+        <item>>https://www.youtube.com/watch?v=c_WF4cBFqXE</item>
+    </string-array>
+</resources>
